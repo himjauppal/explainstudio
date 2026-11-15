@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.streamlit/secrets.toml
+data/*
+!data/stuttgart.csv
+!data/synthetic_pos.csv
